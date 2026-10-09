@@ -1,0 +1,12 @@
+# ninja log v5
+139	461	7798849993454833	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	f4467384295a94e2
+468	718	7798849995853337	C:/ProjectsWorks/BusStopJam/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6p4j4p4x/obj/arm64-v8a/libswappywrapper.so	df621c3cdf3cf80b
+77	1347	7798850002290559	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	cf8e2a8f3f31e3e9
+42	1362	7798850002451768	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	153405e28ddb2e5c
+14	1394	7798850002704245	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	2846c693c24f79a3
+120	1476	7798850003586028	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	5ce174586f149ce2
+1	1572	7798850004514244	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	6abff09990a11494
+98	1580	7798850004606923	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	a0d5227d31d7271f
+58	1766	7798850006463496	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	211bf16eb20408bc
+28	1902	7798850007833617	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	cefe49ec7d99581e
+1903	2034	7798850009079587	C:/ProjectsWorks/BusStopJam/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6p4j4p4x/obj/arm64-v8a/libgame.so	4e5c0ca2fc24f31b
